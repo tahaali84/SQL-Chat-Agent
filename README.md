@@ -14,5 +14,7 @@ Instead of writing SQL queries manually, users can simply ask questions and the 
 -  Retrieve database insights instantly
 -  Supports SQLite/MySQL databases
 -  Fast inference using Groq API
+-  Interactive Streamlit UI
+-  LangChain SQL Agent integration
 
 
