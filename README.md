@@ -8,6 +8,8 @@ Instead of writing SQL queries manually, users can simply ask questions and the 
 
 ## 🚀 Features
 
-- 💬 Chat with your SQL database using natural language
-- 🤖 LLM-powered query understanding
+-  Chat with your SQL database using natural language
+-  LLM-powered query understanding
+-  - 🔎 Automatic SQL query generation
+- 📊 Retrieve database insights instantly
 
