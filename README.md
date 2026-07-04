@@ -66,4 +66,6 @@ Instead of writing SQL queries manually, users can simply ask questions and the 
 - Query visualization using charts
 - User authentication
 - Conversation memory
+- - Multiple database connections
+- Export results as CSV
 
