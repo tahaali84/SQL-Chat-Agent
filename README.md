@@ -23,5 +23,7 @@ Instead of writing SQL queries manually, users can simply ask questions and the 
 - **LangChain**
 - **Groq LLM**
 - **Streamlit**
-
+- **SQLAlchemy**
+- **SQLite / MySQL**
+- **LangChain Agents**
 
