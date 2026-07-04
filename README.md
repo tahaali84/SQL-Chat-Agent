@@ -12,4 +12,7 @@ Instead of writing SQL queries manually, users can simply ask questions and the 
 -  LLM-powered query understanding
 -  Automatic SQL query generation
 -  Retrieve database insights instantly
+-  - 🛠️ Supports SQLite/MySQL databases
+- ⚡ Fast inference using Groq API
+
 
