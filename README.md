@@ -64,6 +64,6 @@ Instead of writing SQL queries manually, users can simply ask questions and the 
 
 - Add PostgreSQL support
 - Query visualization using charts
-- - User authentication
+- User authentication
 - Conversation memory
 
