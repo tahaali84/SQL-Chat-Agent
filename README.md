@@ -17,4 +17,9 @@ Instead of writing SQL queries manually, users can simply ask questions and the 
 -  Interactive Streamlit UI
 -  LangChain SQL Agent integration
 
+## 🛠️ Tech Stack
+
+- **Python**
+- **LangChain**
+
 
