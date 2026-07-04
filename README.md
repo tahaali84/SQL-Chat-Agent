@@ -21,5 +21,7 @@ Instead of writing SQL queries manually, users can simply ask questions and the 
 
 - **Python**
 - **LangChain**
+- **Groq LLM**
+- **Streamlit**
 
 
